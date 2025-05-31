@@ -16,7 +16,7 @@
 
 ## 🚀 Installation
 
-1. 📂 Copier le dossier `WeatherPlugin` dans le dossier `plugins` de votre serveur Nova-Life.
+1. 📂 Copier le dossier `WeatherPlugin`avec ce liens : https://github.com/Gregoire2011/WeatherPlugin/releases/tag/Meteo et dans le dossier `plugins` de votre serveur Nova-Life.
 2. 🛠️ Modifier `WeatherPluginConfig.json` pour configurer messages, intervalles et webhook Discord.
 3. 🔄 Redémarrer le serveur pour activer le plugin.
 
